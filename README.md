@@ -7,7 +7,7 @@ Network topology is the arrangement of the elements of a communication network. 
 
 ### 1. Bus topology
 
-In mesh topology, every computer and network device is connected to a single cable. It has unidirectional transmission of data.
+In bus topology, every computer and network device is connected to a single cable. It has unidirectional transmission of data.
 
 ###### Advantages
 
