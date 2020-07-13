@@ -4,6 +4,7 @@
 
 Network topology is the arrangement of the elements of a communication network. Network topology can be used to define or describe the arrangement of various types of telecommunication networks.
 
+---
 
 ### 1. Bus topology
 
@@ -21,8 +22,25 @@ In bus topology, every computer and network device is connected to a single cabl
 * Cable has limited length
 * If network traffic is high or nodes are more, the network performance tends to decrease (To avoid this various protocols are used, like Pure Aloha)
 
+---
 
-### 2. Mesh topology
+### 2. Ring topology
+
+In ring topology, connecting devices form a ring as each device has exactly two neighbouring devices.
+
+###### Advantages
+
+* Cheap to install and expand
+* Possibility of collision is minimum i.e. network is not affected by adding more nodes
+
+###### Disadvantages
+
+* Troubleshooting is difficult
+* Addition or removal of devices disturbs the whole network
+
+---
+
+### 3. Mesh topology
 
 In mesh topology, each computer on the network connects to every other device via particular channel.
 
